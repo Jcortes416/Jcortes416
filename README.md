@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jcortes416
-- 👀 I’m interested in Artificial Intelligence, Quantum Mechanics, Data Collection, and Market Research 
-- 🌱 I’m currently learning Cognitive Science & Philosophy
-- 💞️ I’m looking to collaborate on A.I Start-Ups, A.I Health, LLMs & Data Collection.
+- 👀 I’m interested in Artificial Intelligence, Quantum Mechanics, and Data Science. 
+- 🌱 I’m currently studying Cognitive Science & Philosophy
+- 💞️ I’m looking to collaborate on A.I Start-Ups, A.I Health, LLMs, or Data Collection projects.
 - 📫 How to reach me at: jessie.cortes@mail.utoronto.ca
 - ⚡ Fun fact: Poet
 
